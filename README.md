@@ -1,0 +1,1 @@
+Project counts letter repeat in a sentence. And finally first ten easy project is done.
